@@ -145,8 +145,8 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
+* []() Faaz Mohamed - Project lead and Developer
+* []() 
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

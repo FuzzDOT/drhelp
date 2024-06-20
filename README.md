@@ -134,7 +134,8 @@ Distributed under the Proprietary License. See `LICENSE.txt` for more informatio
 <!-- CONTACT -->
 ## Contact
 
-Your Name - fuzzinc45@gmail.com
+Faaz Mohamed - fuzzinc45@gmail.com
+Glen Shaji - glenksug25@gmail.com
 
 Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drhelp)
 
@@ -145,8 +146,8 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []() Faaz Mohamed - Project lead and Developer
-* []() 
+* []() Faaz Mohamed - Project founder and Developer
+* []() Glen Shaji - Developer
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

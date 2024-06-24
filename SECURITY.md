@@ -11,7 +11,7 @@ Versions that are not listed here are no longer / not yet supported and may not 
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please send an email to fuzzinc45@gmail.com or glenksug25@gmail.com. Include a detailed description of the vulnerability and steps to reproduce it if possible. Please also provide your contact information so we can follow up with you.
+To report a vulnerability, please send an email to fuzzinc45@gmail.com. Include a detailed description of the vulnerability and steps to reproduce it if possible. Please also provide your contact information so we can follow up with you.
 
 We will acknowledge your report within 48 hours, and we aim to provide a preliminary assessment of the vulnerability within 3 business days.
 

@@ -7,7 +7,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Proprietary License][license-shield]][license-url]
+[![Sponsors][sponsors-shield]][sponsors-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -162,8 +162,8 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 [stars-url]: https://github.com/FuzzDOT/drhelp/stargazers
 [issues-shield]: https://img.shields.io/github/issues/FuzzDOT/drhelp.svg?style=for-the-badge
 [issues-url]: https://github.com/FuzzDOT/drhelp/issues
-[license-shield]: https://img.shields.io/github/license/FuzzDOT/drhelp.svg?style=for-the-badge
-[license-url]: https://github.com/FuzzDOT/drhelp/blob/master/LICENSE.md
+[sponsors-shield]: https://img.shields.io/github/sponsors/FuzzDOT
+[sponsors-url]: https://github.com/FuzzDOT/error:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/faazmohamed
 [product-screenshot]: images/screenshot.png

@@ -154,17 +154,17 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/FuzzDOT/drhelp.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/FuzzDOT/drhelp.svg?style=for-the-badge&color=%232A77C4
 [contributors-url]: https://github.com/FuzzDOT/drhelp/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/FuzzDOT/drhelp.svg?style=for-the-badge
 [forks-url]: https://github.com/FuzzDOT/drhelp/network/members
 [stars-shield]: https://img.shields.io/github/stars/FuzzDOT/drhelp.svg?style=for-the-badge
 [stars-url]: https://github.com/FuzzDOT/drhelp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FuzzDOT/drhelp.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/FuzzDOT/drhelp.svg?style=for-the-badge&color=%232A77C4
 [issues-url]: https://github.com/FuzzDOT/drhelp/issues
-[sponsors-shield]: https://img.shields.io/github/sponsors/FuzzDOT
+[sponsors-shield]: https://img.shields.io/github/sponsors/FuzzDOT?style=for-the-badge
 [sponsors-url]: https://github.com/FuzzDOT/error:
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555&logoColor=%232A77C4
 [linkedin-url]: https://linkedin.com/in/faazmohamed
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white

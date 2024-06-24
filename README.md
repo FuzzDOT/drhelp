@@ -21,7 +21,7 @@
 <h3 align="center">Dr. Help</h3>
 
   <p align="center">
-    An intelligent deep learning algorithm designed to assist the general public and medical specialists in revolutionizing the future of medicine 
+    [Pre-Beta Development] An intelligent deep learning algorithm designed to assist the general public and medical specialists in revolutionizing the future of medicine 
     <br />
     <a href="https://github.com/FuzzDOT/drhelp"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,12 +93,12 @@ An intelligent deep learning algorithm designed to assist the general public and
 <!-- GETTING STARTED -->
 ## Getting Started
 
-All you have to do is visit the website and input your query. Your query can be voice or text and can describe any symptoms that you may be having. Dr. Cancer will then analyze and provide a diagnosis for your symptons, and refer you to the top specialists for your condition in the area!
+All you have to do is visit the website and input your query. Your query can be voice or text and can describe any symptoms that you may be having. Dr. Help will then analyze and provide a diagnosis for your symptons, and refer you to the top specialists for your condition in the area!
 
 ### Prerequisites
-- At the start of your discussion with Dr. Cancer, we will prompt you for your location. Please click "Allow" as it will allow Dr. Cancer to reccomend specialists in your area
+- At the start of your discussion with Dr. Help, we will prompt you for your location. Please click "Allow" as it will allow Dr. Cancer to reccomend specialists in your area
 - Please be as specific as possible with your description! The more specific you are the more accurate your diagnosis will be.
-- After inputting your query, Dr. Cancer will ask you to upload pictures of your symptoms. Doing so will allow your diagnosis to be more accurate, depending on the condition you may have.
+- After inputting your query, Dr. Help will ask you to upload pictures of your symptoms. Doing so will allow your diagnosis to be more accurate, depending on the condition you may have.
 
 ### Installation
 
@@ -135,7 +135,6 @@ Distributed under the Proprietary License. See `LICENSE.txt` for more informatio
 ## Contact
 
 Faaz Mohamed - fuzzinc45@gmail.com
-Glen Shaji - glenksug25@gmail.com
 
 Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drhelp)
 
@@ -147,8 +146,6 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 ## Acknowledgments
 
 * []() Faaz Mohamed - Project founder and Developer
-* []() Glen Shaji - Developer
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

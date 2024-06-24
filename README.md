@@ -21,7 +21,7 @@
 <h3 align="center">Dr. Help</h3>
 
   <p align="center">
-    [Pre-Beta Development] An intelligent deep learning algorithm designed to assist the general public and medical specialists in revolutionizing the future of medicine 
+    An intelligent deep learning algorithm designed to assist the general public and medical specialists in revolutionizing the future of medicine 
     <br />
     <a href="https://github.com/FuzzDOT/drhelp"><strong>Explore the docs »</strong></a>
     <br />
@@ -70,6 +70,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 An intelligent deep learning algorithm designed to assist the general public and medical specialists in revolutionizing the future of medicine. 
+Currently in Pre-Beta Development
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

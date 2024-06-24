@@ -52,6 +52,3 @@ If you have any questions about this License Agreement, please contact Faaz Moha
 
 Faaz Mohamed
 fuzzinc45@gmail.com
-
-Glen Shaji 
-glenksug25@gmail.com

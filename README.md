@@ -11,11 +11,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/FuzzDOT/drhelp">
-    <img src="https://github.com/FuzzDOT/drhelp/assets/83179675/19ba53f8-1daf-4372-ade5-1ea1862ec7f8" alt="Logo" width="200" height="200">
+    <img src="https://github.com/FuzzDOT/drhelp/assets/83179675/c8aa9e43-4be0-425b-98bf-9a9e60708ae4) " alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Dr. Help</h3>

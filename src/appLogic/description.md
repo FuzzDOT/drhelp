@@ -12,6 +12,8 @@ drhelp
 │   │   │   │   ├── input
 │   │   │   │   ├── processing
 │   │   │   │   └── output
+│   │   │   ├── static
+│   │   │   ├── __pycache__
 │   │   │   ├── main.py
 │   ├── webApp
 ├── .github
@@ -31,6 +33,8 @@ The `drhelp` project consists of the following directories and files:
                 - `input`: This directory contains the input-related code.
                 - `processing`: This directory contains the processing-related code.
                 - `output`: This directory contains the output-related code.
+            - `static`: This directory contains the served static files for the backend.
+            - `__pycache__`: This directory contains the cached Python bytecode.
             - `main.py`: This file contains the FastAPI framework for the backend.
     - `webApp`: This directory contains the web application code.
 - `.github`: This directory contains the GitHub-related files and configurations.

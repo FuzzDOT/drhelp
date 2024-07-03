@@ -29,7 +29,7 @@ The `drhelp` project consists of the following directories and files:
     - `appLogic`: This directory contains the application logic code.
         - `description.md`: This file contains the description of the appLogic module.
         - `backEnd`: This directory contains the backend code.
-            - `models`: This directory contains the models for the backend.
+            - `models`: This directory contains the models for the chatbot.
                 - `input`: This directory contains the input-related code.
                 - `processing`: This directory contains the processing-related code.
                 - `output`: This directory contains the output-related code.

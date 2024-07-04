@@ -157,7 +157,7 @@ Project Link: [https://github.com/FuzzDOT/drhelp](https://github.com/FuzzDOT/drh
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [commits-shield]: https://img.shields.io/github/commit-activity/t/FuzzDOT/drhelp?style=for-the-badge&color=%232A77C4
-[commits-url]: https://img.shields.io/github/commit-activity/t/FuzzDOT/drhelp?style=for-the-badge&color=%232A77C4
+[commits-url]: https://github.com/FuzzDOT/drhelp/commits
 [contributors-shield]: https://img.shields.io/github/contributors/FuzzDOT/drhelp.svg?style=for-the-badge&color=%232A77C4
 [contributors-url]: https://github.com/FuzzDOT/drhelp/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/FuzzDOT/drhelp.svg?style=for-the-badge

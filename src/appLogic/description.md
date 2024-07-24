@@ -17,6 +17,7 @@ drhelp
 │   │   │   ├── main.py
 │   ├── webApp
 ├── .github
+├── .gitignore
 ├── CHANGELOG.md
 ├── LICENSE.md
 ├── README.md
@@ -39,6 +40,7 @@ The `drhelp` project consists of the following directories and files:
     - `webApp`: This directory contains the web application code.
 - `.github`: This directory contains the GitHub-related files and configurations.
 - `CHANGELOG.md`: This file contains the project's changelog.
+- `.gitignore`: This file contains sensitive files to be ignored (these sensitive files are not listed in the project file structure)
 - `LICENSE.md`: This file contains the project's license information.
 - `README.md`: This file contains the project's README documentation.
 - `SECURITY.md`: This file contains the project's security information.
